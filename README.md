@@ -7,6 +7,8 @@ Dataset:
 The data set is txt_sentoken which is divided into 2 folders 
 positive reviews and negative reviews.  
 Preprocessing: 
+
+
 1- Splitting data into (80% train and 20% test). 
 2- Encoding for classes.  
 3- Converting all documents to lower case.  
@@ -23,6 +25,8 @@ Models:
 We implemented machine and deep learning models to 
 make classification. 
 Machine Learning models: 
+
+
 1- SVM  
 2- Naïve bayes  
 3- Logistic regression 
